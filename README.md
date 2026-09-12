@@ -1,10 +1,10 @@
-# Early Risk Detection for Student Success — OULAD
+# Early Risk Detection for Student Success | OULAD
 
 An early-warning machine learning project using the Open University Learning Analytics Dataset (OULAD) to identify students at risk of failing or withdrawing.
 
 [![Report](https://img.shields.io/badge/📄_Stakeholder_Report-PDF-1E2A4A?style=for-the-badge)](reports/report_vfinal.pdf)
 
-A concise, non-technical summary of the full analysis — key results, early-warning timing, and advisor recommendations in 9 pages.
+A concise, non-technical summary of the full analysis, key results, early-warning timing, and advisor recommendations in 9 pages.
 
 ## Objective
 
