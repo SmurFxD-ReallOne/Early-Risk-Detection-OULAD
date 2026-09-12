@@ -1,3 +1,7 @@
+## 📄 Stakeholder Report
+
+[Read the full stakeholder report (PDF)](reports/report_vfinal.pdf)
+
 # Early Risk Detection for Student Success — OULAD
 
 An early-warning machine learning project using the Open University Learning Analytics Dataset (OULAD) to identify students at risk of failing or withdrawing.
